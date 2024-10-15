@@ -86,17 +86,6 @@ header nav li a {
     margin-bottom: 8px;
 }
 
-.lista-marcas {
-    display: flex;
-    gap: 8px;
-}
-
-.lista-marcas img {
-    width: 100%;
-    max-width: 150px;
-    height: auto;
-}
-
 #produtos {
     padding: 20px;
     margin-bottom: 40px;
